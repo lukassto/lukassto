@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌀 I’m currently working on recommender systems
-- 📫 Do not hesitate to contact me
+🌀 I’m currently working on recommender systems
+📫 Do not hesitate to contact me
 
-✨ _special_ ✨
+The question is `2b || !2b` ?
 <!--
 **lukassto/lukassto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
