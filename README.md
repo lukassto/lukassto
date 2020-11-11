@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌀 I’m currently working on recommender systems
-📫 Do not hesitate to contact me
+- 🌀 I’m currently working on recommender systems
+- 📫 Do not hesitate to contact me
 
 The question is `2b || !2b` ?
 <!--
