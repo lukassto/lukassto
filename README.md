@@ -4,6 +4,15 @@
 📫 Do not hesitate to contact me<br>
 
 The question is `2b || !2b` ?
+
+
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/lukassto/lukassto/42276e1859ef3664f89a5ee3a75f9272732b4dfa/assets/head.svg">
+		<img src="assets/header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
 <!--
 **lukassto/lukassto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
