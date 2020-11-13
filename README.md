@@ -8,8 +8,7 @@ The question is `2b || !2b` ?
 
 <div align="center">
 	<br>
-	<a href="">
-		<img src="assets/head.svg">
+	<img src="assets/head.svg">
 	</a>
 	<br>
 </div>
