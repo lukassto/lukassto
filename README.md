@@ -8,7 +8,7 @@ The question is `2b || !2b` ?
 
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/lukassto/lukassto/42276e1859ef3664f89a5ee3a75f9272732b4dfa/assets/head.svg">
+	<a href="https://github.com/lukassto/lukassto/blob/main/assets/head.svg?short_path=fe464c8">
 		<img src="assets/header.svg" width="800" height="400">
 	</a>
 	<br>
