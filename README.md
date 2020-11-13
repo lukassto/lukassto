@@ -9,7 +9,7 @@ The question is `2b || !2b` ?
 <div align="center">
 	<br>
 	<a href="https://github.com/lukassto/lukassto/blob/main/assets/head.svg?short_path=fe464c8">
-		<img src="assets/head.svg" width="800" height="400">
+		<img src="assets/head.svg" width="800" height="600">
 	</a>
 	<br>
 </div>
