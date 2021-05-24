@@ -4,14 +4,6 @@
 📫 Do not hesitate to contact me<br>
 
 The question is `2b || !2b` ?
-
-
-<div align="center">
-	<br>
-	<img src="assets/head.svg">
-	</a>
-	<br>
-</div>
 <!--
 **lukassto/lukassto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
