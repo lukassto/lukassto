@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🌀 I’m currently working on recommender systems<br>
+⚡ I’m currently working on recommender systems<br>
 📫 Do not hesitate to contact me<br>
 
 The question is `2b || !2b` ?
